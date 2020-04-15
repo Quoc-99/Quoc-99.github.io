@@ -1,1 +1,29 @@
-*{margin: 0; padding: 0;} 
+*{margin: 0; padding: 0;}
+
+li.nav-item {
+    margin: 0 15px;
+    padding: 0;
+}
+
+ul.nav.navbar-nav.float-xs-right {
+    font-family: segoe ui;
+    font-size: 20px;
+    line-height: 3;
+    text-transform: uppercase;
+}
+
+li.nav-item.active {
+    padding: 0;
+}
+
+li.nav-item.active {}
+
+img {
+    width: 92px;
+    height: 70px;
+}
+
+nav.navbar.navbar-light.bg-faded.navbar-fixed-top {
+    margin: 0;
+    padding: 0;
+} 
